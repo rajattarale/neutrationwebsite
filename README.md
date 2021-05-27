@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajattarale
 - 👀 I’m interested in desinging and development
 - 🌱 I’m currently learning desging and java development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on neutration website
 - 📫 How to reach me ...
 
 <!---
